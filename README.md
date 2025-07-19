@@ -39,4 +39,4 @@ A modern, responsive QR code generator and scanner web application built with cu
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/qr-code-app.git
+   git clone https://github.com/vd437/Qrcode.git
